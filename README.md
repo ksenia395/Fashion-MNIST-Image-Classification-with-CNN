@@ -141,3 +141,8 @@ CIFAR-10 (color, higher complexity)
 Transfer learning with pretrained CNNs
 
 Metric learning or hierarchical labels for ambiguous classes
+
+📎 Kaggle Notebook
+The full implementation and experiments are available on Kaggle:
+
+👉 View the Kaggle Notebook https://www.kaggle.com/code/ksenia395/fashion-mnist/
